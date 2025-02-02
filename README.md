@@ -4,7 +4,7 @@
 </div>
 
 
-This is a repository for the game I have been developing in Python for macOS using the Ren’Py Engine called Yapper. I want it to be a fun, open-source tool for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. 
+This is a repository for the game I have been developing in Python for macOS using the Ren’Py Engine called Yapper. I want it to be a free, fun tool for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. 
 
 ## Design
 - [ ] Styled like a 16 bit gameboy advance game to pay homage some of my favorite video games during my childhood years (The Legend of Zelda: The Minish Cap, Pokemon Leaf Green, the Invincible Iron Man)
