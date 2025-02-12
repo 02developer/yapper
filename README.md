@@ -13,7 +13,7 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] The text inputted by the user is fed into a small language model (SLM) that I trained to respond like a patient. (For context, I am able to inference this SLM on my laptop which has an 8th-gen i5 processor and 8gb of RAM. I get somewhere between 112 and 120 tokens per second). 
 - [ ] The patient interview follows the following format: https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] The user should be able to ask the patient many about many of the questions/topics listed in the outline
-- [ ] The images for the characters in this game were generated using DALL-E
+- [ ] The images for the characters in this game were generated using DALL-E and than remastered by hand. 
 
  ![Alt text](screenshots/1.png)
  ![Alt text](screenshots/2.png)
@@ -39,7 +39,7 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 
 ## Moving Forward
 - [ ] I plan to remove the 100 character limit for user interactions in the game.
-- [ ] I plan to improve the character art in the game (still learning how to make Pixel art). Meanwhile, the DALL-E images are serving as placeholders
+- [ ] I plan to improve the character art in the game (still learning how to make Pixel art). Meanwhile, the DALL-E images are serving as placeholders.
 - [ ] Release versions of this app for Linux and Windows. (Maybe even develop an Android Version of this app in the future).
 - [ ] I would like to add sound-effects to the game 
 - [ ] I Would also like to add more avatars for the doctor and patient (allow user to select an avatar for the doctor)
