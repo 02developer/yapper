@@ -41,7 +41,6 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 
 ## Moving Forward
 - [ ] Release versions of this app for Linux and Windows. (Maybe even develop an Android Version of this app in the future).
-- [ ] I would like to add sound-effects to the game 
 - [ ] I Would also like to add more avatars for the doctor and patient (allow user to select an avatar for the doctor)
 - [ ] I would probably like to make the timer optional (so the user can practice without a time constraint if they need)
 - [ ] Eventually, I would like for this program to be able to evaluate the quality of user interactions and give them feedback on how they can improve. 
