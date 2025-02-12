@@ -35,11 +35,11 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] You could also manually provide the permissions by running the following commands
     - [ ] cd /path/to/MyGame.app/Contents/Resources/autorun/game
     - [ ] chmod +x run
+        - [ ] If you do not run this script, you may get an error. You would know this because the patient will say, "I'm sorry, I didn't understand that."
+
 
 
 ## Moving Forward
-- [ ] I plan to remove the 100 character limit for user interactions in the game.
-- [ ] I plan to improve the character art in the game (still learning how to make Pixel art). Meanwhile, the DALL-E images are serving as placeholders.
 - [ ] Release versions of this app for Linux and Windows. (Maybe even develop an Android Version of this app in the future).
 - [ ] I would like to add sound-effects to the game 
 - [ ] I Would also like to add more avatars for the doctor and patient (allow user to select an avatar for the doctor)
