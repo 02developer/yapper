@@ -6,7 +6,7 @@
 
 This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Currently, this app has been compiled for macOS.
 
-## Design
+## Design and Features
 - [ ] Styled like a 16 bit gameboy advance game to pay homage some of my favorite video games during my childhood years (The Legend of Zelda: The Minish Cap, Pokemon Leaf Green, the Invincible Iron Man)
 - [ ] I thought the interractive story format would be fitting to capture the dynamic, back and forth nature of a conversation between a patient and the medical interviewer
 - [ ] Each interaction requires the user to set the amount of time they need for the interview. After the countdown timer finishes, the user is asked whether they would like to end or continue the interview
@@ -14,10 +14,13 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] The patient interview follows the following format: https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] The user should be able to ask the patient many about many of the questions/topics listed in the outline
 - [ ] The images for the characters in this game were generated using DALL-E and than remastered by hand. 
+-- [ ] This program is now able to evaluate the quality of user interactions and give them feedback on what skills they can improve on. 
 
  ![Alt text](screenshots/1.png)
  ![Alt text](screenshots/2.png)
  ![Alt text](screenshots/3.png)
+ ![Alt text](screenshots/4.png)
+
 
 
 ## About the Simulated Patient
@@ -42,4 +45,4 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 ## Moving Forward
 - [ ] Release versions of this app for Linux and Windows. (Maybe even develop an Android Version of this app in the future).
 - [ ] I would also like to add more avatars for the doctor and patient (allow user to select an avatar for the doctor)
-- [ ] Eventually, I would like for this program to be able to evaluate the quality of user interactions and give them feedback on how they can improve. 
+
