@@ -14,7 +14,7 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] The patient interview follows the following format: https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] The user should be able to ask the patient many about many of the questions/topics listed in the outline
 - [ ] The images for the characters in this game were generated using DALL-E and than remastered by hand. 
--- [ ] This program is now able to evaluate the quality of user interactions and give them feedback on what skills they can improve on. 
+- [ ] This program is now able to evaluate the quality of user interactions and give them feedback on what skills they can improve on. 
 
  ![Alt text](screenshots/1.png)
  ![Alt text](screenshots/2.png)
