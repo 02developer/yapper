@@ -46,3 +46,8 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] Release versions of this app for Linux and Windows. (Maybe even develop an Android Version of this app in the future).
 - [ ] I would also like to add more avatars for the doctor and patient (allow user to select an avatar for the doctor)
 
+## Contact
+If you have any questions or feedback that you would like to share with me about Yapper, feel free to contact me at ohtwodeveloper@gmail.com
+
+
+
