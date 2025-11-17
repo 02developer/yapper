@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Yapper</h1>
 </div>
-This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Currently, this app has been compiled for macOS.
+This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Since it is written in Java, Yapper is now platform agnostic and should be able to run on Windows, macOS, and Linux (though I only tested it on my Mac since that is all I have).
 
 ## Demo
-Below is a demo of the game in action:
+Below is a demo of the game in action. Sorry for the low frame rate of the GIF:
 
 <p align="center">
   <a href="screenshots/demo.gif">
@@ -23,7 +23,6 @@ Below is a demo of the game in action:
 - [ ] Interview format inspired by:
       https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] Users can ask about most topics listed in the outline
-- [ ] Character images generated with DALL-E and then remastered by hand
 - [ ] Program now evaluates the quality of user interactions and provides feedback on communication skills
 
 ## About the Simulated Patient
@@ -35,15 +34,13 @@ Below is a demo of the game in action:
 - [ ] Alex is married and met his/her partner in high school
 
 ## Setup
-- [ ] I do not have an Apple Developer Account. Therefore you must run the included bash script to grant permissions for the small language model to run (make the run file executable).
-    - [ ] Ensure `script.sh` and `interview_game.app` are in the same directory
-- [ ] You may also manually grant permissions by running:
-    - [ ] `cd /path/to/interview_game.app/Contents/Resources/autorun/game`
-    - [ ] `chmod +x run`
-        - [ ] If you skip this step, the patient will respond: *"I'm sorry, I didn't understand that."*
+- [ ] I would recommend updating to the latest version of Java/OpenJDK. Below is the Java version I have on my laptop 
+    - [ ] `openjdk version "21.0.9" 2025-10-21
+          OpenJDK Runtime Environment Homebrew (build 21.0.9)
+          OpenJDK 64-Bit Server VM Homebrew (build 21.0.9, mixed mode, sharing)` 
 
 ## Moving Forward
-- [ ] Release versions for Linux and Windows (and possibly Android)
+- [ ] Release mobile (Android and maybe even iOS)
 - [ ] Expand evaluation system for user communication skills
 - [ ] Add more avatars for both doctor and patient; allow user-selected doctor avatar
 
