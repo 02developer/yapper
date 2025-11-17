@@ -23,7 +23,7 @@ Below is a demo of the game in action. Sorry for the low frame rate of the GIF:
 - [ ] Interview format inspired by:
       https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] Users can ask about most topics listed in the outline
-- [ ] Program now evaluates the quality of user interactions and provides feedback on communication skills
+
 
 ## About the Simulated Patient
 - [ ] Alex Morgan is a 34-year-old [male/female] born June 15, 1990 who presents with a 6-month history of heartburn, worsening after meals. Rated 7/10 in severity.
@@ -43,6 +43,7 @@ Below is a demo of the game in action. Sorry for the low frame rate of the GIF:
 - [ ] Release mobile (Android and maybe even iOS)
 - [ ] Expand evaluation system for user communication skills
 - [ ] Add more avatars for both doctor and patient; allow user-selected doctor avatar
+- [ ] Work on reimplementing Program to evaluates the quality of user interactions and provides feedback on communication skills in Java and timed conversations. 
 
 ## Contact
 If you have any questions or feedback about Yapper, feel free to contact me at **ohtwodeveloper@gmail.com**.
