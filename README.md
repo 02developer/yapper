@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Yapper</h1>
 </div>
-This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Since it is written in Java, Yapper is now platform agnostic and should be able to run on Windows, macOS, and Linux (though I only tested it on my Mac since that is all I have).
+This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Since it is written in Java, Yapper is now platform agnostic and should be able to run on Windows, macOS, and Linux (though I only tested it on my Mac since that is all I have). The file is called "yapper.jar". 
 
 ## Demo
 Below is a demo of the game in action. Sorry for the low frame rate of the GIF:
