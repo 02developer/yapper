@@ -1,28 +1,26 @@
 <div align="center">
   <h1>Yapper</h1>
 </div>
-
 This is a repository for a free, fun game for healthcare students (nursing students, PA students, medical students) to practice patient interviews and medical communication skills in a timed setting. However, if you do not fall into one of those categories or are just generally curious about how clinical encounters work, this tool is for you as well. Currently, this app has been compiled for macOS.
 
 ## Demo
-
 Below is a demo of the game in action:
 
 <p align="center">
-  <video src="screenshots/demo.mp4" width="600" controls>
-    Your browser does not support embedded videos.  
-    <br>
-    <a href="screenshots/demo.mp4">Click here to watch the demo.</a>
-  </video>
+  <a href="screenshots/demo.gif">
+    <img src="screenshots/demo.gif" width="600" alt="Yapper Demo"/>
+  </a>
+  <br>
+  <small><a href="screenshots/demo.mp4">Click for full video (MP4)</a></small>
 </p>
 
 ## Design and Features
 - [ ] Styled like a 16-bit Game Boy Advance game to pay homage to some of my favorite video games during my childhood years (The Legend of Zelda: The Minish Cap, Pokémon Leaf Green, The Invincible Iron Man)
 - [ ] Interactive story format that captures the dynamic back-and-forth nature of a medical interview
 - [ ] User sets the time needed for the interview; once the countdown finishes, they can continue or end the interview
-- [ ] User input is fed into a small language model (SLM) that I trained to respond like a patient  
+- [ ] User input is fed into a small language model (SLM) that I trained to respond like a patient
       (For context, this SLM runs on an 8th-gen i5 laptop with 8GB RAM at ~112–120 tokens/sec)
-- [ ] Interview format inspired by:  
+- [ ] Interview format inspired by:
       https://web.archive.org/web/20240419094912/https://resident360.nejm.org/training-resources/patient-communication/the-medical-interview/core-concepts
     - [ ] Users can ask about most topics listed in the outline
 - [ ] Character images generated with DALL-E and then remastered by hand
