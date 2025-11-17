@@ -16,10 +16,7 @@ This is a repository for a free, fun game for healthcare students (nursing stude
 - [ ] The images for the characters in this game were generated using DALL-E and than remastered by hand. 
 - [ ] This program is now able to evaluate the quality of user interactions and give them feedback on what skills they can improve on. 
 
- ![Alt text](screenshots/1.png)
- ![Alt text](screenshots/2.png)
- ![Alt text](screenshots/3.png)
- ![Alt text](screenshots/4.png)
+ ![Alt text](screenshots/demo.mp4)
 
 
 
