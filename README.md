@@ -43,7 +43,7 @@ Below is a demo of the game in action. Sorry for the low frame rate of the GIF:
 - [ ] Release mobile (Android and maybe even iOS)
 - [ ] Expand evaluation system for user communication skills
 - [ ] Add more avatars for both doctor and patient; allow user-selected doctor avatar
-- [ ] Work on reimplementing Program to evaluates the quality of user interactions and provides feedback on communication skills in Java and timed conversations. 
+- [ ] Work on reimplementing program to evaluate the quality of user interactions and provides feedback on communication skills in Java and timed conversations. 
 
 ## Contact
 If you have any questions or feedback about Yapper, feel free to contact me at **ohtwodeveloper@gmail.com**.
